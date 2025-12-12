@@ -121,7 +121,7 @@
           "dahlah,cuma mau ngucapin itu aja,semangat terus ya cantik hehe :)"
         );
         await swals.fire(`Oh iya ${nama} terakhir nih`);
-        await swals.fire("karena aku malu ngetik langsung aku mau bulang disini aja will you be my girl friend?   dijawab yaa.. oh sama terakhir nih klik ikon love dibawah yaa   dadahh ");
+        await swals.fire("karena aku malu ngetik langsung aku mau bulang disini aja will you be my girl friend?   dijawab yaa.. oh sama terakhir nih klik ikon love dibawah yaa   dadah ");
       }
 
       var audioPlaying = false;
